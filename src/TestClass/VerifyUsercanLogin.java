@@ -1,6 +1,6 @@
 package TestClass;
 
-public class VerifyUsercanLogin extends UtilClass1 {
+//public class VerifyUsercanLogin extends UtilClass1 {
 //	WebDriver driver ;
 //	LoginPage lp;
 //	
@@ -51,4 +51,4 @@ public class VerifyUsercanLogin extends UtilClass1 {
 //	  report.flush();
 //	  driver.quit();  
 //  }
-}
+//}

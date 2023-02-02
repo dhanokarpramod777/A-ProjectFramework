@@ -1,5 +1,5 @@
 package ListenersClasse;
-public class ListenersClasse implements ITestListener {
+//public class ListenersClasse implements ITestListener {
 
 //	public void onTestStart(ITestResult result) {
 //	    System.out.println(result.getName()+ "Test Started");
@@ -35,4 +35,4 @@ public class ListenersClasse implements ITestListener {
 //		    System.out.println(context.getName()+ "Test onFinish");
 //	  }
 //	  
-}
+//}
